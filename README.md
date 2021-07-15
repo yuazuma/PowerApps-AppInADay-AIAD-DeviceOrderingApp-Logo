@@ -13,3 +13,8 @@ If(
     ThisItem.'Logo@display'
 )
 ```
+
+<br>
+<br>
+
+![ScreenShot](https://raw.githubusercontent.com/yuazuma/PowerApps-AppInADay-AIAD-DeviceOrderingApp-Logo/main/ScreenShot.png "ScreenShot")
